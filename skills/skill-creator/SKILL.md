@@ -1,7 +1,11 @@
 ---
 name: skill-creator
-description: Create and maintain reusable OpenCode skills. Use when defining new SKILL.md files or updating existing skills that extend OpenCode's capabilities with specialized workflows, tool integrations, or domain expertise.
-compatibility: opencode
+description: Create and maintain reusable skills for multiple agent platforms (OpenCode, Claude, Antigravity, Copilot). Use when defining or updating SKILL.md files that extend agent capabilities with workflows, tool integrations, or domain expertise.
+compatibility:
+  - opencode
+  - claude
+  - antigravity
+  - copilot
 ---
 
 # OpenCode Skill Creator

@@ -1,0 +1,9 @@
+[
+  {
+    "name": "skill-creator",
+    "description": "Create and maintain reusable skills for OpenCode, Claude, Antigravity, and Copilot agents.",
+    "compatibility": ["opencode", "claude", "antigravity", "copilot"],
+    "path": "skills/skill-creator/SKILL.md",
+    "sha256": ""
+  }
+]
