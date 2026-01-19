@@ -2,7 +2,11 @@
 name: laravel-seeder-organization
 description: Document how to group Laravel seeders between local and shared environments, ensure seeders guard against duplication, and keep reruns safe.
 license: MIT
-compatibility: opencode
+compatibility:
+  - opencode
+  - claude
+  - antigravity
+  - copilot
 metadata:
   audience: developers
 ---

@@ -2,7 +2,11 @@
 name: laravel-model-migrations
 description: Explain how this repo (and others) reason about defining migrations directly on models, keeping the commands aligned after changes.
 license: MIT
-compatibility: opencode
+compatibility:
+  - opencode
+  - claude
+  - antigravity
+  - copilot
 metadata:
   audience: developers
 ---

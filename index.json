@@ -5,5 +5,19 @@
     "compatibility": ["opencode", "claude", "antigravity", "copilot"],
     "path": "skills/skill-creator/SKILL.md",
     "sha256": ""
+  },
+  {
+    "name": "laravel-seeder-organization",
+    "description": "Organize Laravel seeders into shared vs local-only, idempotent reruns without duplication.",
+    "compatibility": ["opencode", "claude", "antigravity", "copilot"],
+    "path": "skills/laravel-seeder-organization/SKILL.md",
+    "sha256": ""
+  },
+  {
+    "name": "laravel-model-migrations",
+    "description": "Define Laravel migrations on models with laravel-auto/migrations; keep schema in sync via migrate:auto.",
+    "compatibility": ["opencode", "claude", "antigravity", "copilot"],
+    "path": "skills/laravel-models-and-migrations/SKILL.md",
+    "sha256": ""
   }
 ]

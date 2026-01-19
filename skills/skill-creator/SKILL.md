@@ -12,7 +12,7 @@ compatibility:
 
 ## Overview
 
-Skills are self-contained SKILL.md files that extend OpenCode with specialized knowledge and reusable workflows. This skill guides creating effective skills by managing scope, structuring content, and organizing bundled resources.
+Skills are self-contained SKILL.md files that extend agent platforms (OpenCode, Claude, Antigravity, Copilot) with specialized knowledge and reusable workflows. This skill guides creating effective skills by managing scope, structuring content, and organizing bundled resources.
 
 ## File Locations
 
