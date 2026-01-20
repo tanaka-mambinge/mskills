@@ -2,22 +2,49 @@
   {
     "name": "skill-creator",
     "description": "Create and maintain reusable skills for OpenCode, Claude, Antigravity, and Copilot agents.",
-    "compatibility": ["opencode", "claude", "antigravity", "copilot"],
+    "compatibility": [
+      "opencode",
+      "claude",
+      "antigravity",
+      "copilot"
+    ],
     "path": "skills/skill-creator/SKILL.md",
     "sha256": ""
   },
   {
     "name": "laravel-seeder-organization",
     "description": "Organize Laravel seeders into shared vs local-only, idempotent reruns without duplication.",
-    "compatibility": ["opencode", "claude", "antigravity", "copilot"],
+    "compatibility": [
+      "opencode",
+      "claude",
+      "antigravity",
+      "copilot"
+    ],
     "path": "skills/laravel-seeder-organization/SKILL.md",
     "sha256": ""
   },
   {
     "name": "laravel-model-migrations",
     "description": "Define Laravel migrations on models with laravel-auto/migrations; keep schema in sync via migrate:auto.",
-    "compatibility": ["opencode", "claude", "antigravity", "copilot"],
+    "compatibility": [
+      "opencode",
+      "claude",
+      "antigravity",
+      "copilot"
+    ],
     "path": "skills/laravel-models-and-migrations/SKILL.md",
     "sha256": ""
+  },
+  {
+    "name": "audit-logging",
+    "description": "Describe audit-logging",
+    "compatibility": [
+      "opencode",
+      "claude",
+      "antigravity",
+      "copilot"
+    ],
+    "path": "skills/audit-logging/SKILL.md",
+    "sha256": "cd839fb702533ab4d7cfd8b021e3c692385e158ef451e77b7aba03d9a57a293c"
   }
 ]
